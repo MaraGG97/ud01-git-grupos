@@ -1,0 +1,1 @@
+# GRUPO 7 – GitHub (repositorios remotos y sincronización)
