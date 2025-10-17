@@ -1,1 +1,1 @@
-# GRUPO 7 – repositorios locales, commits e historial
+# GRUPO 7 – Git: repositorios locales, commits e historial
