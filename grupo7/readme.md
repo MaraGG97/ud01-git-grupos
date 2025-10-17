@@ -1,1 +1,1 @@
-# GRUPO 7 – GitHub (repositorios remotos y sincronización)
+# GRUPO 7 – repositorios locales, commits e historial
